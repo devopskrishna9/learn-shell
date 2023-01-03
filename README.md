@@ -10,5 +10,7 @@ In this repo we keep shell scripting files
 6. Exit status
 7. Inputs
 8. Quotes
+9. Redirectors
+10. SED editor
 
 ##1234
