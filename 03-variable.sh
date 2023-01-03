@@ -22,4 +22,4 @@ a=(10 20)
 echo first index of a is ${a[0]}
 #10
 
-echo b - $b
+echo d - $d
