@@ -20,6 +20,6 @@ echo result - $ADD
 #Array syntax
 a=(10 20)
 echo ${a[0]}
-10
+#10
 
 echo b=$b
