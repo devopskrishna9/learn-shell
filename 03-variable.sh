@@ -19,7 +19,7 @@ echo result - $ADD
 
 #Array syntax
 a=(10 20)
-echo ${a[0]}
+echo first index of a is ${a[0]}
 #10
 
-echo b=$b
+echo b - $b
