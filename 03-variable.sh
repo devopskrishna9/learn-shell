@@ -16,3 +16,10 @@ echo date is $Date
 #Arthematic syntax
 ADD=$((2+3))
 echo result - $ADD
+
+#Array syntax
+a=(10 20)
+echo ${a[0]}
+10
+
+echo b=$b
