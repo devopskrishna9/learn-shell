@@ -1,7 +1,7 @@
 # learn-shell1
 In this repo we keep shell scripting files
 
-#Shell-topics
+# Shell-topics
 1.Printing
 2.Variables (V)
 3.Functions (F)
